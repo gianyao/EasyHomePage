@@ -1,7 +1,7 @@
 ---
 site:
-  title: 'Jason Ng、阿禅与伍嘉贤的网络档案'
-  description: '伍嘉贤（Jason Ng）的网络档案页面，包含联系方式、网络踪迹等。'
+  title: '大安的网络档案'
+  description: '大安（Gian）的网络档案页面，包含联系方式、网络踪迹等。'
   language: 'zh-CN'
   loadingTitle: '正在加载主页'
   loadingDescription: '内容马上就绪'
@@ -15,7 +15,7 @@ brand:
   favicon: 'favicon.ico'
 
 profile:
-  birthDate: '1987-11-06'
+  birthDate: '1986-04-18'
   version:
     enabled: true
     title: ''
@@ -69,23 +69,23 @@ analytics:
 socialLinks:
   - name: 'GitHub'
     icon: 'github'
-    url: 'https://github.com/jason5ng32'
+    url: 'https://github.com/gianyao'
   - name: 'Twitter'
     icon: 'twitter'
-    url: 'https://twitter.com/jason5ng32'
+    url: 'https://x.com/yogian'
   - name: 'LinkedIn'
     icon: 'linkedin'
     url: 'https://www.linkedin.com/in/jason5ng32'
   - name: 'Email'
     icon: 'envelope'
-    url: 'mailto:fromhomepage@kenengba.com'
+    url: 'mailto:i@yaojian.cc'
   - name: 'Instagram'
     icon: 'instagram'
-    url: 'https://www.instagram.com/jason5ng32'
+    url: 'https://www.instagram.com/gianyao'
   - name: '博客'
     icon: 'rss'
-    url: 'https://kenengba.com'
+    url: 'https://yaojian.cc'
   - name: 'Wikipedia'
     icon: 'wikipedia'
-    url: 'https://zh.wikipedia.org/wiki/%E4%BC%8D%E5%98%89%E8%B4%A4'
+    url: 'https://zh.wikipedia.org/wiki/g'
 ---
